@@ -1,0 +1,21 @@
+C:\Users\hussa\source\repos\Road6Bills\Road6Bills\bin\Debug\Road6Bills.exe.config
+C:\Users\hussa\source\repos\Road6Bills\Road6Bills\bin\Debug\Road6Bills.exe
+C:\Users\hussa\source\repos\Road6Bills\Road6Bills\bin\Debug\Road6Bills.pdb
+C:\Users\hussa\source\repos\Road6Bills\Road6Bills\obj\Debug\Road6Bills.csproj.AssemblyReference.cache
+C:\Users\hussa\source\repos\Road6Bills\Road6Bills\obj\Debug\Road6Bills.csproj.CoreCompileInputs.cache
+C:\Users\hussa\source\repos\Road6Bills\Road6Bills\obj\Debug\Road6Bills.exe
+C:\Users\hussa\source\repos\Road6Bills\Road6Bills\obj\Debug\Road6Bills.pdb
+C:\Users\hussa\OneDrive\Documents\Visual Projects\C#\Road6Bills\Road6Bills\bin\Debug\Road6Bills.exe.config
+C:\Users\hussa\OneDrive\Documents\Visual Projects\C#\Road6Bills\Road6Bills\bin\Debug\Road6Bills.exe
+C:\Users\hussa\OneDrive\Documents\Visual Projects\C#\Road6Bills\Road6Bills\bin\Debug\Road6Bills.pdb
+C:\Users\hussa\OneDrive\Documents\Visual Projects\C#\Road6Bills\Road6Bills\obj\Debug\Road6Bills.csproj.AssemblyReference.cache
+C:\Users\hussa\OneDrive\Documents\Visual Projects\C#\Road6Bills\Road6Bills\obj\Debug\Road6Bills.csproj.CoreCompileInputs.cache
+C:\Users\hussa\OneDrive\Documents\Visual Projects\C#\Road6Bills\Road6Bills\obj\Debug\Road6Bills.exe
+C:\Users\hussa\OneDrive\Documents\Visual Projects\C#\Road6Bills\Road6Bills\obj\Debug\Road6Bills.pdb
+G:\Other computers\My laptop\VisualProjects\C#\Road6Bills\Road6Bills\bin\Debug\Road6Bills.exe.config
+G:\Other computers\My laptop\VisualProjects\C#\Road6Bills\Road6Bills\bin\Debug\Road6Bills.exe
+G:\Other computers\My laptop\VisualProjects\C#\Road6Bills\Road6Bills\bin\Debug\Road6Bills.pdb
+G:\Other computers\My laptop\VisualProjects\C#\Road6Bills\Road6Bills\obj\Debug\Road6Bills.csproj.AssemblyReference.cache
+G:\Other computers\My laptop\VisualProjects\C#\Road6Bills\Road6Bills\obj\Debug\Road6Bills.csproj.CoreCompileInputs.cache
+G:\Other computers\My laptop\VisualProjects\C#\Road6Bills\Road6Bills\obj\Debug\Road6Bills.exe
+G:\Other computers\My laptop\VisualProjects\C#\Road6Bills\Road6Bills\obj\Debug\Road6Bills.pdb
